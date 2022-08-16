@@ -38,3 +38,7 @@ or
 ```shell
 yarn dev
 ```
+
+#### Screenshot
+
+![nft-gallery-alchemy](https://user-images.githubusercontent.com/67114280/184895904-0a335ad6-c1da-45ea-90be-7b44c2cd9b3f.png)
