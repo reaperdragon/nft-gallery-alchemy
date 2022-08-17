@@ -6,6 +6,8 @@ Frontend - [Next Js](https://nextjs.org/)
 
 API - [Alchemy API](https://www.alchemy.com/)
 
+Style - [Tailwind](https://tailwindcss.com/)
+
 ### Challenges :
  - [x] Allow User to Copy Address with SVG.
  - [x] Pagination.
